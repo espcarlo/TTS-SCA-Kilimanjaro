@@ -1,0 +1,11 @@
+{
+    "gulp": {
+      
+    },
+    "overrides": {
+        "suitecommerce/ShoppingApplication@4.1.0/SuiteScript/goToCart.ssp": "SuiteScript/goToCart.ssp",
+        "suitecommerce/ShoppingApplication@4.1.0/SuiteScript/logOut.ssp": "SuiteScript/logOut.ssp",
+        "suitecommerce/ShoppingApplication@4.1.0/SuiteScript/searchApi.ssp": "SuiteScript/searchApi.ssp",
+        "suitecommerce/ShoppingApplication@4.1.0/Internals/index-local.ssp": "Internals/index-local.ssp"
+    }
+}

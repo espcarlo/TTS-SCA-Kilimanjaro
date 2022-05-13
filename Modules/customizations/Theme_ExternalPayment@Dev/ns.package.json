@@ -1,0 +1,8 @@
+{
+    "gulp": {
+      
+    },
+    "overrides": {
+        "suitecommerce/ExternalPayment@1.1.0/SuiteScript/external_payment.ssp": "SuiteScript/external_payment.ssp"
+    }
+}

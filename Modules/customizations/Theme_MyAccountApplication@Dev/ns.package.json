@@ -1,0 +1,16 @@
+{
+    "gulp": {
+        "templates": [
+            "Templates/*"
+        ],
+        "sass": [
+            "Sass/**/*.scss"
+        ],
+        "overrides": {
+            "suitecommerce/MyAccountApplication@3.2.0/SuiteScript/my_account.ssp" : "SuiteScript/my_account.ssp",
+            "suitecommerce/MyAccountApplication@3.2.0/SuiteScript/download.ssp" : "SuiteScript/download.ssp",
+            "suitecommerce/MyAccountApplication@3.2.0/SuiteScript/print-statement.ssp" : "SuiteScript/print-statement.ssp",
+            "suitecommerce/MyAccountApplication@3.2.0/Internal/print-statement.ssp" : "Internal/print-statement.ssp"
+        }
+    }
+}

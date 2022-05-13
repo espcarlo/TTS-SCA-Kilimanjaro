@@ -1,0 +1,10 @@
+{
+    "gulp": {
+       "javascript": [
+          "JavaScript/*.js"
+       ]
+    },
+    "overrides": {
+       "suitecommerce/SspLibraries@4.2.0/SuiteScript/ServiceController.js" : "SuiteScript/ServiceController.js"
+    }
+ }
